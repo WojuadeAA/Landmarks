@@ -23,6 +23,7 @@
 		FE9DF2872B29A05C00BA7901 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FE9DF28E2B29A4D600BA7901 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		FE9DF2902B29A6C300BA7901 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		FE9DF2922B29B00000BA7901 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +40,7 @@
 		FE9DF2742B29A05B00BA7901 = {
 			isa = PBXGroup;
 			children = (
+				FE9DF2922B29B00000BA7901 /* README.md */,
 				FE9DF27F2B29A05B00BA7901 /* Landmarks */,
 				FE9DF27E2B29A05B00BA7901 /* Products */,
 			);
